@@ -1,0 +1,14 @@
+# Ignore OS system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node dependencies (if ever used)
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
